@@ -13,4 +13,7 @@ Network Miner 3-0
 900Gb Storage (Change to however much storage you want)  
 8 GB Ram (Change to however much storage you want)  
 
+# Virtual Machine Application
+VM Workstation 17 Pro
+
 
