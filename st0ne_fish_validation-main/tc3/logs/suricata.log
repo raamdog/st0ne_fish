@@ -1,0 +1,20 @@
+4/9/2025 -- 18:23:23 - <Notice> - This is Suricata version 6.0.10 RELEASE running in USER mode
+4/9/2025 -- 18:23:23 - <Info> - CPUs/cores online: 4
+4/9/2025 -- 18:23:23 - <Info> - fast output device (regular) initialized: fast.log
+4/9/2025 -- 18:23:23 - <Info> - eve-log output device (regular) initialized: eve.json
+4/9/2025 -- 18:23:23 - <Info> - stats output device (regular) initialized: stats.log
+4/9/2025 -- 18:23:25 - <Info> - 1 rule files processed. 44850 rules successfully loaded, 0 rules failed
+4/9/2025 -- 18:23:25 - <Info> - Threshold config parsed: 0 rule(s) found
+4/9/2025 -- 18:23:26 - <Info> - 44853 signatures processed. 963 are IP-only rules, 5121 are inspecting packet payload, 38560 inspect application layer, 108 are decoder event only
+4/9/2025 -- 18:23:30 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+4/9/2025 -- 18:23:30 - <Warning> - [ERRCODE: SC_ERR_INITIALIZATION(45)] - Unix socket: UNIX socket bind(/var/run/suricata-command.socket) error: Address already in use
+4/9/2025 -- 18:23:30 - <Warning> - [ERRCODE: SC_ERR_INITIALIZATION(45)] - Unable to create unix command socket
+4/9/2025 -- 18:23:30 - <Notice> - all 1 packet processing threads, 4 management threads initialized, engine started.
+4/9/2025 -- 18:23:30 - <Info> - Starting file run for ./2020-05-08-Trickbot-infection-in-AD-environment.pcap
+4/9/2025 -- 18:23:30 - <Info> - No packets with invalid checksum, assuming checksum offloading is NOT used
+4/9/2025 -- 18:23:31 - <Info> - pcap file ./2020-05-08-Trickbot-infection-in-AD-environment.pcap end of file reached (pcap err code 0)
+4/9/2025 -- 18:23:31 - <Notice> - Signal Received.  Stopping engine.
+4/9/2025 -- 18:23:31 - <Info> - time elapsed 0.573s
+4/9/2025 -- 18:23:31 - <Notice> - Pcap-file module read 1 files, 51370 packets, 42613657 bytes
+4/9/2025 -- 18:23:31 - <Info> - Alerts: 155
+4/9/2025 -- 18:23:31 - <Info> - cleaning up signature grouping structure... complete
